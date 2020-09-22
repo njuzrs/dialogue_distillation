@@ -1,6 +1,6 @@
 # Dialogue Distillation
 
-code/data for EMNLP'2020 long paper "Dialogue Distillation: Open-domain Dialogue Augmentation Using Unpaired Data"
+code/data for EMNLP'2020 long paper "[Dialogue Distillation: Open-domain Dialogue Augmentation Using Unpaired Data](https://arxiv.org/abs/2009.09427)"
 
 ## Code
 
@@ -21,4 +21,5 @@ Please cite our EMNLP paper if you find our work useful :)
       author={Zheng, Rongsheng and Zheng, Yinhe and Shao, Jianzhi and Mao, Xiaoxi and Xi, Yadong and Huang, Minlie},
       booktitle={EMNLP},
       year={2020},
+      url={https://arxiv.org/abs/2009.09427}
     }
